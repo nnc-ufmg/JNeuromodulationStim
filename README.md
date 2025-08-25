@@ -1,4 +1,4 @@
-# Arduino Stimulation Codes for JNmod Article
+# Arduino Stimulation Codes for Neuromodulation: Technology at the Neural Interface Article
 
 This repository contains the Arduino code used in the **JNmod article**.  
 Both *attractor* and *probing* protocols implement the same logic, with variation only in timing parameters and channel configurations.
